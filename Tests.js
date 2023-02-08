@@ -1,4 +1,4 @@
-import { moteur, portes, vitesse, poids } from "./module";
+import { moteur, portes, vitesse, poids } from "./voitures";
 
 describe("moteur function", () => {
   it("doit retourner 1200", () => {
