@@ -23,4 +23,3 @@ describe("poids function", () => {
     expect(poids()).toBe("900");
   });
 });
-tes;
